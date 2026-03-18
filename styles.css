@@ -3,3 +3,7 @@ body {
   font-family: 'Poppins', sans-serif;
 }
 figure img{border: solid 10px black;}
+figure figcaption {
+  display: inline-block;
+  border: 5px solid black;
+}
