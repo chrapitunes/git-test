@@ -7,3 +7,6 @@ figure figcaption {
   display: inline-block;
   border: 5px solid black;
 }
+.center-paragraph{
+    text-align: center;
+}
