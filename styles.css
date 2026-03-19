@@ -1,12 +1,15 @@
 
+body{
+    background-color: black;
+}
 body {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Poppins', sans-serif; color: white;
 }
-figure img{border: solid 10px black;}
-figure figcaption {
-  display: inline-block;
-  border: 5px solid black;
-}
+figure img{border: solid 10px rgb(224, 56, 56);}
+
 .center-paragraph{
+    text-align: center;
+}
+.center-paragraph2{
     text-align: center;
 }
