@@ -13,3 +13,39 @@ figure img{border: solid 10px rgb(224, 56, 56);}
 .center-paragraph2{
     text-align: center;
 }
+.newarticle{
+    font-family: 'Bitcount Grid Double Ink', sans-serif;
+    color: black;
+    text-align: center;
+}
+.invitational{
+    font-family: 'Bitcount Grid Double Ink', sans-serif;
+    text-align: center;
+    color: black
+}
+.signin{
+    text-align: center;
+    color: black;
+}
+.backgroundpic{
+    background-image: url(Imagenes/descarga.jpg);
+    border: solid 2px red;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 500px;
+    height: 400px;
+    margin: auto;
+}
+.name{
+    text-align: center;
+    color: black;
+}
+.hr{
+    color: red;
+    border: solid 5px;
+    height: 2px;
+    background-color: black;
+    margin-left: 20%;
+    margin-right: 20%
+}
